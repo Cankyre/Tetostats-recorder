@@ -1,0 +1,10 @@
+{
+  "outputDir": "./data/",
+  "data": {
+    "streams": [],
+    "leaderboards": ["tlf", "tlf#fr"],
+    "savedStats": ["apm", "pps"],
+    "interval": "600",
+    "removeDuplicates": true
+  }
+}
