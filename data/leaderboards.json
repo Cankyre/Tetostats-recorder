@@ -1,1050 +1,1054 @@
 {
-  "1633799543": [
+  "1633800233": [
     {
+      "_id": "5e3f6ebe3dacc16dbc4dd6aa",
       "username": "doremy",
-      "apm": 132.37,
-      "pps": 2.88
+      "role": "user",
+      "xp": 4792306,
+      "league": {
+        "gamesplayed": 1923,
+        "gameswon": 1317,
+        "rating": 24979.77195799793,
+        "glicko": 3367.097241393609,
+        "rd": 67.29978378274082,
+        "rank": "x",
+        "apm": 132.37,
+        "pps": 2.88,
+        "vs": 279.75,
+        "decaying": false
+      },
+      "supporter": true,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "60f8814d5eb99132e8d7f461",
       "username": "merlin69",
-      "apm": 126.66,
-      "pps": 3.01
+      "role": "user",
+      "xp": 788820,
+      "league": {
+        "gamesplayed": 236,
+        "gameswon": 175,
+        "rating": 24949.554718771535,
+        "glicko": 3126.962029916831,
+        "rd": 67.00493058115143,
+        "rank": "x",
+        "apm": 129.69,
+        "pps": 3.05,
+        "vs": 277.92,
+        "decaying": false
+      },
+      "supporter": true,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "608d6137c3d345677c8b02ff",
       "username": "akuzino777",
-      "apm": 88.08,
-      "pps": 2.24
+      "role": "user",
+      "xp": 1141569,
+      "league": {
+        "gamesplayed": 451,
+        "gameswon": 260,
+        "rating": 24152.4745586995,
+        "glicko": 2377.1466632255238,
+        "rd": 61.545964822419656,
+        "rank": "u",
+        "apm": 88.08,
+        "pps": 2.24,
+        "vs": 173.42,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5febf38d61f2f20b9ddf056f",
       "username": "tommy333",
-      "apm": 62.55,
-      "pps": 1.94
+      "role": "user",
+      "xp": 3285801,
+      "league": {
+        "gamesplayed": 1046,
+        "gameswon": 553,
+        "rating": 24114.29547769106,
+        "glicko": 2365.0317431117464,
+        "rd": 60.851837523574694,
+        "rank": "u",
+        "apm": 62.55,
+        "pps": 1.94,
+        "vs": 140.66,
+        "decaying": false
+      },
+      "supporter": false,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "6024346e89e17df40bbae72f",
       "username": "hericendre",
-      "apm": 73.22,
-      "pps": 1.89
+      "role": "user",
+      "xp": 2858556,
+      "league": {
+        "gamesplayed": 898,
+        "gameswon": 481,
+        "rating": 24068.105783827807,
+        "glicko": 2351.298888416591,
+        "rd": 61.19003709150608,
+        "rank": "u",
+        "apm": 73.22,
+        "pps": 1.89,
+        "vs": 153.13,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f0ecd4bc683351f11e64d5d",
       "username": "sosobingo",
-      "apm": 68.03,
-      "pps": 1.96
+      "role": "user",
+      "xp": 2880365,
+      "league": {
+        "gamesplayed": 764,
+        "gameswon": 431,
+        "rating": 24043.18229743523,
+        "glicko": 2344.792833154337,
+        "rd": 66.07345495378148,
+        "rank": "u",
+        "apm": 68.03,
+        "pps": 1.96,
+        "vs": 153.26,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5fd14f013a6a8b21b89d3c5a",
       "username": "yacktenebreux",
-      "apm": 62.15,
-      "pps": 1.89
+      "role": "user",
+      "xp": 4477530,
+      "league": {
+        "gamesplayed": 1725,
+        "gameswon": 888,
+        "rating": 23944.109092012113,
+        "glicko": 2317.2247593664815,
+        "rd": 61.124399792871024,
+        "rank": "u",
+        "apm": 62.15,
+        "pps": 1.89,
+        "vs": 136.44,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5eaede9d6a0210711521e52d",
       "username": "fivoka",
-      "apm": 66.6,
-      "pps": 2.03
+      "role": "user",
+      "xp": 3186707,
+      "league": {
+        "gamesplayed": 395,
+        "gameswon": 235,
+        "rating": 23871.206527570215,
+        "glicko": 2302.285417192102,
+        "rd": 83.00165030227544,
+        "rank": "u",
+        "apm": 66.6,
+        "pps": 2.03,
+        "vs": 147.83,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5facd52d3a6a8b21b8974eab",
       "username": "thatcookie",
-      "apm": 74.27,
-      "pps": 2.28
+      "role": "user",
+      "xp": 3358242,
+      "league": {
+        "gamesplayed": 1483,
+        "gameswon": 761,
+        "rating": 23727.91716033122,
+        "glicko": 2266.00414763542,
+        "rd": 60.7537311943062,
+        "rank": "u",
+        "apm": 74.27,
+        "pps": 2.28,
+        "vs": 156.67,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5fe1c2fc3b5acb7fa4b9c5a6",
       "username": "feli__",
-      "apm": 69.26,
-      "pps": 2.19
+      "role": "user",
+      "xp": 2181781,
+      "league": {
+        "gamesplayed": 919,
+        "gameswon": 477,
+        "rating": 23709.988907866595,
+        "glicko": 2263.470622502965,
+        "rd": 66.914649906755,
+        "rank": "u",
+        "apm": 69.26,
+        "pps": 2.19,
+        "vs": 148.48,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e7a44c3353bde3494a1cda2",
       "username": "rulue",
-      "apm": 56.36,
-      "pps": 1.82
+      "role": "user",
+      "xp": 1760332,
+      "league": {
+        "gamesplayed": 680,
+        "gameswon": 365,
+        "rating": 23701.732756022087,
+        "glicko": 2268.439137055793,
+        "rd": 93.16920978589799,
+        "rank": "u",
+        "apm": 56.36,
+        "pps": 1.82,
+        "vs": 122.84,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "611ba733fbaa285a997c3d53",
       "username": "poussipoc",
-      "apm": 65.35,
-      "pps": 2.02
+      "role": "user",
+      "xp": 720105,
+      "league": {
+        "gamesplayed": 144,
+        "gameswon": 94,
+        "rating": 23698.11069981631,
+        "glicko": 2259.6696021824505,
+        "rd": 61.03586122968167,
+        "rank": "u",
+        "apm": 65.35,
+        "pps": 2.02,
+        "vs": 134.07,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f8de9983d29b1349820610f",
       "username": "turbo-baguette",
-      "apm": 65.61,
-      "pps": 1.7
+      "role": "user",
+      "xp": 6199951,
+      "league": {
+        "gamesplayed": 883,
+        "gameswon": 453,
+        "rating": 23568.329196233353,
+        "glicko": 2234.3288462154014,
+        "rd": 68.77193950868862,
+        "rank": "u",
+        "apm": 65.61,
+        "pps": 1.7,
+        "vs": 141.68,
+        "decaying": true
+      },
+      "supporter": false,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e434ede368a5d2489fbf5e3",
       "username": "msa736",
-      "apm": 65.81,
-      "pps": 2.34
+      "role": "user",
+      "xp": 6934813,
+      "league": {
+        "gamesplayed": 3566,
+        "gameswon": 1800,
+        "rating": 23510.47237893611,
+        "glicko": 2222.435777142182,
+        "rd": 61.53772186624483,
+        "rank": "u",
+        "apm": 65.81,
+        "pps": 2.34,
+        "vs": 143.48,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f4432c69d8f5e2e957f234f",
       "username": "4voltsbattery",
-      "apm": 58.99,
-      "pps": 1.72
+      "role": "user",
+      "xp": 2711223,
+      "league": {
+        "gamesplayed": 913,
+        "gameswon": 488,
+        "rating": 23462.43493904668,
+        "glicko": 2213.493199012384,
+        "rd": 61.04424349707691,
+        "rank": "u",
+        "apm": 58.59,
+        "pps": 1.7,
+        "vs": 130.99,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5fad2c530d1b7a21c535a907",
       "username": "lgskully",
-      "apm": 55.75,
-      "pps": 1.99
+      "role": "user",
+      "xp": 1581093,
+      "league": {
+        "gamesplayed": 123,
+        "gameswon": 70,
+        "rating": 23370.33771773543,
+        "glicko": 2202.660128113913,
+        "rd": 91.15057927162319,
+        "rank": "u",
+        "apm": 55.75,
+        "pps": 1.99,
+        "vs": 131.55,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ece67230fc2886c082cbc1e",
       "username": "wingv",
-      "apm": 51.05,
-      "pps": 1.52
+      "role": "user",
+      "xp": 454376,
+      "league": {
+        "gamesplayed": 123,
+        "gameswon": 71,
+        "rating": 23209.58958857184,
+        "glicko": 2174.19822523566,
+        "rd": 77.5835910074399,
+        "rank": "u",
+        "apm": 51.05,
+        "pps": 1.52,
+        "vs": 109.24,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f45a8839d8f5e2e957f4d75",
       "username": "retto74",
-      "apm": 57.84,
-      "pps": 1.53
+      "role": "user",
+      "xp": 3103196,
+      "league": {
+        "gamesplayed": 690,
+        "gameswon": 361,
+        "rating": 23167.57417255976,
+        "glicko": 2165.1882403040936,
+        "rd": 66.06294668776948,
+        "rank": "u",
+        "apm": 57.84,
+        "pps": 1.53,
+        "vs": 122.44,
+        "decaying": false
+      },
+      "supporter": true,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ecff8570fc2886c082cf3c0",
       "username": "anthonys01",
-      "apm": 56.35,
-      "pps": 1.81
+      "role": "user",
+      "xp": 2378406,
+      "league": {
+        "gamesplayed": 494,
+        "gameswon": 281,
+        "rating": 23067.77741420923,
+        "glicko": 2149.260987453994,
+        "rd": 61.191067677139024,
+        "rank": "ss",
+        "apm": 56.35,
+        "pps": 1.81,
+        "vs": 127.45,
+        "decaying": false
+      },
+      "supporter": true,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "60963e9f34013fd46d13e412",
       "username": "ecchou",
-      "apm": 79.09,
-      "pps": 2.31
+      "role": "user",
+      "xp": 2447893,
+      "league": {
+        "gamesplayed": 541,
+        "gameswon": 295,
+        "rating": 22959.443233327987,
+        "glicko": 2133.7696772354884,
+        "rd": 68.33124818456537,
+        "rank": "ss",
+        "apm": 79.09,
+        "pps": 2.31,
+        "vs": 150.69,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ec873132c4bdc3e512bfb68",
       "username": "philem",
-      "apm": 41.05,
-      "pps": 1.71
+      "role": "user",
+      "xp": 6421913,
+      "league": {
+        "gamesplayed": 301,
+        "gameswon": 168,
+        "rating": 22879.813091647808,
+        "glicko": 2125.451108814864,
+        "rd": 81.22662356762383,
+        "rank": "ss",
+        "apm": 41.05,
+        "pps": 1.71,
+        "vs": 100.21,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e9d763ee6f1903fa6605159",
       "username": "luco7777",
-      "apm": 50.45,
-      "pps": 1.73
+      "role": "user",
+      "xp": 1457637,
+      "league": {
+        "gamesplayed": 531,
+        "gameswon": 278,
+        "rating": 22850.425364907253,
+        "glicko": 2119.665005148162,
+        "rd": 65.74615041359984,
+        "rank": "ss",
+        "apm": 50.45,
+        "pps": 1.73,
+        "vs": 111.87,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "60e4b677d4d84832ccdf4946",
       "username": "zulian",
-      "apm": 65.28,
-      "pps": 1.92
+      "role": "user",
+      "xp": 617947,
+      "league": {
+        "gamesplayed": 278,
+        "gameswon": 159,
+        "rating": 22761.95379029958,
+        "glicko": 2107.2183130536787,
+        "rd": 60.71606867931479,
+        "rank": "ss",
+        "apm": 65.28,
+        "pps": 1.92,
+        "vs": 138.28,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e7be1beee556e69f1d02033",
       "username": "akro",
-      "apm": 44.09,
-      "pps": 1.52
+      "role": "user",
+      "xp": 1661998,
+      "league": {
+        "gamesplayed": 683,
+        "gameswon": 355,
+        "rating": 22759.53197073145,
+        "glicko": 2107.108403921177,
+        "rd": 61.93439078049421,
+        "rank": "ss",
+        "apm": 44.09,
+        "pps": 1.52,
+        "vs": 106.95,
+        "decaying": false
+      },
+      "verified": true,
+      "country": "FR"
     },
     {
+      "_id": "603b6cb7e3edbd2fbebe1c16",
       "username": "felicien2b",
-      "apm": 42.19,
-      "pps": 1.61
+      "role": "user",
+      "xp": 1690264,
+      "league": {
+        "gamesplayed": 528,
+        "gameswon": 276,
+        "rating": 22717.73319051903,
+        "glicko": 2102.2700629146184,
+        "rd": 64.79726541725738,
+        "rank": "ss",
+        "apm": 42.19,
+        "pps": 1.61,
+        "vs": 100.24,
+        "decaying": false
+      },
+      "supporter": false,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5fe9fe114529400ba4707919",
       "username": "ethryn",
-      "apm": 47.63,
-      "pps": 1.41
+      "role": "user",
+      "xp": 4920015,
+      "league": {
+        "gamesplayed": 1912,
+        "gameswon": 973,
+        "rating": 22706.648486341892,
+        "glicko": 2100.2242908541307,
+        "rd": 60.922321525908,
+        "rank": "ss",
+        "apm": 47.63,
+        "pps": 1.41,
+        "vs": 108.27,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5eb1e3bff799773b49da0993",
       "username": "shiruushi",
-      "apm": 54.99,
-      "pps": 1.94
+      "role": "user",
+      "xp": 7388317,
+      "league": {
+        "gamesplayed": 4015,
+        "gameswon": 2002,
+        "rating": 22648.19084693359,
+        "glicko": 2092.9001922714824,
+        "rd": 60.550126255454614,
+        "rank": "ss",
+        "apm": 55.7,
+        "pps": 1.96,
+        "vs": 115.13,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "614633a393384844e34221cf",
       "username": "koropokkuru",
-      "apm": 51.67,
-      "pps": 1.9
+      "role": "user",
+      "xp": 102141,
+      "league": {
+        "gamesplayed": 27,
+        "gameswon": 18,
+        "rating": 22630.689272067673,
+        "glicko": 2093.248303199584,
+        "rd": 77.6448506808124,
+        "rank": "ss",
+        "apm": 51.67,
+        "pps": 1.9,
+        "vs": 108.38,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e9ce52d23c2213fb5d85d14",
       "username": "speedphoenix",
-      "apm": 52.68,
-      "pps": 1.93
+      "role": "user",
+      "xp": 502551,
+      "league": {
+        "gamesplayed": 161,
+        "gameswon": 93,
+        "rating": 22513.780580761206,
+        "glicko": 2079.0529392971375,
+        "rd": 73.73335215943973,
+        "rank": "ss",
+        "apm": 52.68,
+        "pps": 1.93,
+        "vs": 110.19,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f4f64f91fee2b2e8c2a64ba",
       "username": "kimiyoru",
-      "apm": 51.54,
-      "pps": 1.63
+      "role": "user",
+      "xp": 5606133,
+      "league": {
+        "gamesplayed": 2368,
+        "gameswon": 1181,
+        "rating": 22480.661137085506,
+        "glicko": 2072.9712768851414,
+        "rd": 60.73215654508505,
+        "rank": "ss",
+        "apm": 51.54,
+        "pps": 1.63,
+        "vs": 110.35,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ee10df615609a2c5174cccc",
       "username": "gastonia",
-      "apm": 54.62,
-      "pps": 1.5
+      "role": "user",
+      "xp": 3579672,
+      "league": {
+        "gamesplayed": 1317,
+        "gameswon": 676,
+        "rating": 22459.790038427163,
+        "glicko": 2070.634004054455,
+        "rd": 61.158328643497825,
+        "rank": "ss",
+        "apm": 54.62,
+        "pps": 1.5,
+        "vs": 113.6,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5eb98d9bee9e7d1017ff6ac9",
       "username": "slighmanu",
-      "apm": 55.29,
-      "pps": 1.25
+      "role": "user",
+      "xp": 5918237,
+      "league": {
+        "gamesplayed": 1610,
+        "gameswon": 821,
+        "rating": 22398.80963812017,
+        "glicko": 2063.627107562521,
+        "rd": 60.606225214619634,
+        "rank": "ss",
+        "apm": 55.29,
+        "pps": 1.25,
+        "vs": 115.7,
+        "decaying": false
+      },
+      "supporter": true,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e8efc8504aa3744bfc5451a",
       "username": "fabetsol",
-      "apm": 55.03,
-      "pps": 1.9
+      "role": "user",
+      "xp": 2443797,
+      "league": {
+        "gamesplayed": 1182,
+        "gameswon": 599,
+        "rating": 22386.44983496213,
+        "glicko": 2062.317013053991,
+        "rd": 61.102669977248596,
+        "rank": "ss",
+        "apm": 55.03,
+        "pps": 1.9,
+        "vs": 113.46,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ea93b89f35e366e4141253e",
       "username": "ezan",
-      "apm": 47.21,
-      "pps": 1.59
+      "role": "user",
+      "xp": 3009559,
+      "league": {
+        "gamesplayed": 987,
+        "gameswon": 507,
+        "rating": 22269.06218268001,
+        "glicko": 2049.3597535505583,
+        "rd": 60.578714865515224,
+        "rank": "ss",
+        "apm": 47.21,
+        "pps": 1.59,
+        "vs": 96.84,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5eaec913ce33a371051bbaed",
       "username": "adrienmalin",
-      "apm": 45.93,
-      "pps": 1.97
+      "role": "user",
+      "xp": 2502261,
+      "league": {
+        "gamesplayed": 38,
+        "gameswon": 24,
+        "rating": 22237.709455696386,
+        "glicko": 2047.8586044002304,
+        "rd": 98.1461250423031,
+        "rank": "ss",
+        "apm": 45.93,
+        "pps": 1.97,
+        "vs": 102.83,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5eed2194a181c96c0bbac5cd",
       "username": "shiluryu",
-      "apm": 51.33,
-      "pps": 1.56
+      "role": "user",
+      "xp": 478688,
+      "league": {
+        "gamesplayed": 143,
+        "gameswon": 77,
+        "rating": 22207.287170007126,
+        "glicko": 2045.7596934464573,
+        "rd": 87.45025934176562,
+        "rank": "ss",
+        "apm": 51.33,
+        "pps": 1.56,
+        "vs": 106.75,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ea8c4bc3d48896e5d1236a7",
       "username": "luden",
-      "apm": 43.75,
-      "pps": 1.69
+      "role": "user",
+      "xp": 2159814,
+      "league": {
+        "gamesplayed": 300,
+        "gameswon": 166,
+        "rating": 22093.937521442316,
+        "glicko": 2031.1021317362172,
+        "rd": 61.135816791107764,
+        "rank": "ss",
+        "apm": 43.75,
+        "pps": 1.69,
+        "vs": 99.09,
+        "decaying": false
+      },
+      "supporter": false,
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5fd3acde9efe6021cc6dd764",
       "username": "kar528",
-      "apm": 34.02,
-      "pps": 1.16
+      "role": "user",
+      "xp": 2798822,
+      "league": {
+        "gamesplayed": 518,
+        "gameswon": 272,
+        "rating": 22079.652077463474,
+        "glicko": 2029.692632469684,
+        "rd": 61.43960934052932,
+        "rank": "ss",
+        "apm": 34.02,
+        "pps": 1.16,
+        "vs": 89.18,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "601728e3a9aefc13fbdc35b1",
       "username": "caribou_dd",
-      "apm": 50.24,
-      "pps": 1.67
+      "role": "user",
+      "xp": 280688,
+      "league": {
+        "gamesplayed": 143,
+        "gameswon": 73,
+        "rating": 22028.559681853738,
+        "glicko": 2024.6982229722707,
+        "rd": 63.50536964971235,
+        "rank": "ss",
+        "apm": 50.24,
+        "pps": 1.67,
+        "vs": 102.26,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f1ac61381849d6c012277b6",
       "username": "steroidbest",
-      "apm": 51.61,
-      "pps": 1.64
+      "role": "user",
+      "xp": 2997137,
+      "league": {
+        "gamesplayed": 1241,
+        "gameswon": 627,
+        "rating": 21985.40252263479,
+        "glicko": 2020.4714245461653,
+        "rd": 70.94492037277409,
+        "rank": "ss",
+        "apm": 51.61,
+        "pps": 1.64,
+        "vs": 108.21,
+        "decaying": true
+      },
+      "supporter": false,
+      "verified": false,
+      "country": "FR"
     },
     {
-      "username": "fab77",
-      "apm": 38.89,
-      "pps": 1.69
-    },
-    {
+      "_id": "60c92f3d6c8e722d13718c2a",
       "username": "merlinbm",
-      "apm": 42.13,
-      "pps": 1.47
+      "role": "user",
+      "xp": 2067914,
+      "league": {
+        "gamesplayed": 1087,
+        "gameswon": 566,
+        "rating": 21960.013416525504,
+        "glicko": 2017.6655793093246,
+        "rd": 60.7881768324288,
+        "rank": "ss",
+        "apm": 42.13,
+        "pps": 1.47,
+        "vs": 90.79,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "605b95af8adae6238ca8e03a",
       "username": "siriusbyt",
-      "apm": 51.18,
-      "pps": 1.58
+      "role": "user",
+      "xp": 1328680,
+      "league": {
+        "gamesplayed": 115,
+        "gameswon": 76,
+        "rating": 21909.657566159985,
+        "glicko": 2013.8535185409016,
+        "rd": 87.22578911352034,
+        "rank": "ss",
+        "apm": 51.18,
+        "pps": 1.58,
+        "vs": 102.4,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5e775937a8a28e1c6b9e275a",
       "username": "moutig",
-      "apm": 42.9,
-      "pps": 1.54
+      "role": "user",
+      "xp": 1869814,
+      "league": {
+        "gamesplayed": 440,
+        "gameswon": 236,
+        "rating": 21907.329942223736,
+        "glicko": 2012.6016380268961,
+        "rd": 64.24216376284718,
+        "rank": "ss",
+        "apm": 42.9,
+        "pps": 1.54,
+        "vs": 93.77,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
-      "username": "lonelynerd",
-      "apm": 32.23,
-      "pps": 1.66
-    },
-    {
-      "username": "fayarider",
-      "apm": 29.48,
-      "pps": 1.28
-    },
-    {
-      "username": "rosajo",
-      "apm": 36.68,
-      "pps": 1.42
-    },
-    {
-      "username": "lucie7777777",
-      "apm": 44.33,
-      "pps": 1.78
-    },
-    {
-      "username": "feld",
-      "apm": 33.49,
-      "pps": 1.51
-    },
-    {
-      "username": "mattkart",
-      "apm": 42.23,
-      "pps": 1.48
-    },
-    {
-      "username": "pandametal",
-      "apm": 40.79,
-      "pps": 1.84
-    },
-    {
-      "username": "gaho",
-      "apm": 36.69,
-      "pps": 1.77
-    }
-  ],
-  "1633799693": [
-    {
-      "username": "doremy",
-      "apm": 132.37,
-      "pps": 2.88
-    },
-    {
-      "username": "merlin69",
-      "apm": 126.66,
-      "pps": 3.01
-    },
-    {
-      "username": "akuzino777",
-      "apm": 88.08,
-      "pps": 2.24
-    },
-    {
-      "username": "tommy333",
-      "apm": 62.55,
-      "pps": 1.94
-    },
-    {
-      "username": "hericendre",
-      "apm": 73.22,
-      "pps": 1.89
-    },
-    {
-      "username": "sosobingo",
-      "apm": 68.03,
-      "pps": 1.96
-    },
-    {
-      "username": "yacktenebreux",
-      "apm": 62.15,
-      "pps": 1.89
-    },
-    {
-      "username": "fivoka",
-      "apm": 66.6,
-      "pps": 2.03
-    },
-    {
-      "username": "thatcookie",
-      "apm": 74.27,
-      "pps": 2.28
-    },
-    {
-      "username": "feli__",
-      "apm": 69.26,
-      "pps": 2.19
-    },
-    {
-      "username": "rulue",
-      "apm": 56.36,
-      "pps": 1.82
-    },
-    {
-      "username": "poussipoc",
-      "apm": 65.35,
-      "pps": 2.02
-    },
-    {
-      "username": "turbo-baguette",
-      "apm": 65.61,
-      "pps": 1.7
-    },
-    {
-      "username": "msa736",
-      "apm": 65.81,
-      "pps": 2.34
-    },
-    {
-      "username": "4voltsbattery",
-      "apm": 58.59,
-      "pps": 1.7
-    },
-    {
-      "username": "lgskully",
-      "apm": 55.75,
-      "pps": 1.99
-    },
-    {
-      "username": "wingv",
-      "apm": 51.05,
-      "pps": 1.52
-    },
-    {
-      "username": "retto74",
-      "apm": 57.84,
-      "pps": 1.53
-    },
-    {
-      "username": "anthonys01",
-      "apm": 56.35,
-      "pps": 1.81
-    },
-    {
-      "username": "ecchou",
-      "apm": 79.09,
-      "pps": 2.31
-    },
-    {
-      "username": "philem",
-      "apm": 41.05,
-      "pps": 1.71
-    },
-    {
-      "username": "luco7777",
-      "apm": 50.45,
-      "pps": 1.73
-    },
-    {
-      "username": "zulian",
-      "apm": 65.28,
-      "pps": 1.92
-    },
-    {
-      "username": "akro",
-      "apm": 44.09,
-      "pps": 1.52
-    },
-    {
-      "username": "felicien2b",
-      "apm": 42.19,
-      "pps": 1.61
-    },
-    {
-      "username": "ethryn",
-      "apm": 47.63,
-      "pps": 1.41
-    },
-    {
-      "username": "shiruushi",
-      "apm": 55.7,
-      "pps": 1.96
-    },
-    {
-      "username": "koropokkuru",
-      "apm": 51.67,
-      "pps": 1.9
-    },
-    {
-      "username": "speedphoenix",
-      "apm": 52.68,
-      "pps": 1.93
-    },
-    {
-      "username": "kimiyoru",
-      "apm": 51.54,
-      "pps": 1.63
-    },
-    {
-      "username": "gastonia",
-      "apm": 54.62,
-      "pps": 1.5
-    },
-    {
-      "username": "slighmanu",
-      "apm": 55.29,
-      "pps": 1.25
-    },
-    {
-      "username": "fabetsol",
-      "apm": 55.03,
-      "pps": 1.9
-    },
-    {
-      "username": "ezan",
-      "apm": 47.21,
-      "pps": 1.59
-    },
-    {
-      "username": "adrienmalin",
-      "apm": 45.93,
-      "pps": 1.97
-    },
-    {
-      "username": "shiluryu",
-      "apm": 51.33,
-      "pps": 1.56
-    },
-    {
-      "username": "luden",
-      "apm": 43.75,
-      "pps": 1.69
-    },
-    {
-      "username": "kar528",
-      "apm": 34.02,
-      "pps": 1.16
-    },
-    {
-      "username": "caribou_dd",
-      "apm": 50.24,
-      "pps": 1.67
-    },
-    {
-      "username": "steroidbest",
-      "apm": 51.61,
-      "pps": 1.64
-    },
-    {
+      "_id": "5e769d272cd9101aa6389289",
       "username": "fab77",
-      "apm": 38.89,
-      "pps": 1.69
+      "role": "user",
+      "xp": 753416,
+      "league": {
+        "gamesplayed": 155,
+        "gameswon": 86,
+        "rating": 21890.84580529041,
+        "glicko": 2011.0480657303767,
+        "rd": 61.49649103489321,
+        "rank": "ss",
+        "apm": 38.85,
+        "pps": 1.68,
+        "vs": 91.97,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
-      "username": "merlinbm",
-      "apm": 42.13,
-      "pps": 1.47
-    },
-    {
-      "username": "siriusbyt",
-      "apm": 51.18,
-      "pps": 1.58
-    },
-    {
-      "username": "moutig",
-      "apm": 42.9,
-      "pps": 1.54
-    },
-    {
+      "_id": "6069eea352bd429ba3d43675",
       "username": "lonelynerd",
-      "apm": 32.23,
-      "pps": 1.66
+      "role": "user",
+      "xp": 524121,
+      "league": {
+        "gamesplayed": 98,
+        "gameswon": 57,
+        "rating": 21781.059242392974,
+        "glicko": 2003.4732222683053,
+        "rd": 79.60780925044605,
+        "rank": "ss",
+        "apm": 32.23,
+        "pps": 1.66,
+        "vs": 78.97,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f120b163d96f37560a506d1",
       "username": "fayarider",
-      "apm": 29.48,
-      "pps": 1.28
+      "role": "user",
+      "xp": 1939287,
+      "league": {
+        "gamesplayed": 736,
+        "gameswon": 360,
+        "rating": 21679.35911264113,
+        "glicko": 1993.2500722726031,
+        "rd": 74.82843321855002,
+        "rank": "ss",
+        "apm": 29.48,
+        "pps": 1.28,
+        "vs": 67.99,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5fce4a7413e8c021da3bb501",
       "username": "rosajo",
-      "apm": 36.68,
-      "pps": 1.42
+      "role": "user",
+      "xp": 1651427,
+      "league": {
+        "gamesplayed": 385,
+        "gameswon": 196,
+        "rating": 21666.421779108034,
+        "glicko": 1990.7643963756657,
+        "rd": 93.28336299872514,
+        "rank": "ss",
+        "apm": 36.68,
+        "pps": 1.42,
+        "vs": 84.69,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "606d9e2813a9a39baba865d9",
       "username": "lucie7777777",
-      "apm": 44.33,
-      "pps": 1.78
+      "role": "user",
+      "xp": 2763349,
+      "league": {
+        "gamesplayed": 895,
+        "gameswon": 464,
+        "rating": 21337.60300997897,
+        "glicko": 1961.383596064998,
+        "rd": 60.85570313062649,
+        "rank": "s+",
+        "apm": 44.33,
+        "pps": 1.78,
+        "vs": 98.28,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "6140d73493384844e3404658",
       "username": "feld",
-      "apm": 33.49,
-      "pps": 1.51
+      "role": "user",
+      "xp": 368707,
+      "league": {
+        "gamesplayed": 148,
+        "gameswon": 76,
+        "rating": 21305.45883508916,
+        "glicko": 1958.688512011194,
+        "rd": 60.753403316776726,
+        "rank": "s+",
+        "apm": 33.49,
+        "pps": 1.51,
+        "vs": 76.2,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "6110ed5bea073c5a9ff7e284",
       "username": "mattkart",
-      "apm": 42.23,
-      "pps": 1.48
+      "role": "user",
+      "xp": 341184,
+      "league": {
+        "gamesplayed": 85,
+        "gameswon": 45,
+        "rating": 21188.231840533223,
+        "glicko": 1949.2734058478923,
+        "rd": 79.44001952434263,
+        "rank": "s+",
+        "apm": 42.23,
+        "pps": 1.48,
+        "vs": 96.28,
+        "decaying": true
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5ed2e0590fc2886c082d4997",
       "username": "pandametal",
-      "apm": 40.79,
-      "pps": 1.84
+      "role": "user",
+      "xp": 6599577,
+      "league": {
+        "gamesplayed": 3027,
+        "gameswon": 1476,
+        "rating": 21098.220872252437,
+        "glicko": 1941.8218769439786,
+        "rd": 60.584698060353865,
+        "rank": "s+",
+        "apm": 40.79,
+        "pps": 1.84,
+        "vs": 82.74,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     },
     {
+      "_id": "5f3c268a46d4612e935553bf",
       "username": "gaho",
-      "apm": 36.69,
-      "pps": 1.77
-    }
-  ],
-  "1633799702": [
-    {
-      "username": "doremy",
-      "apm": 132.37,
-      "pps": 2.88
-    },
-    {
-      "username": "merlin69",
-      "apm": 126.66,
-      "pps": 3.01
-    },
-    {
-      "username": "akuzino777",
-      "apm": 88.08,
-      "pps": 2.24
-    },
-    {
-      "username": "tommy333",
-      "apm": 62.55,
-      "pps": 1.94
-    },
-    {
-      "username": "hericendre",
-      "apm": 73.22,
-      "pps": 1.89
-    },
-    {
-      "username": "sosobingo",
-      "apm": 68.03,
-      "pps": 1.96
-    },
-    {
-      "username": "yacktenebreux",
-      "apm": 62.15,
-      "pps": 1.89
-    },
-    {
-      "username": "fivoka",
-      "apm": 66.6,
-      "pps": 2.03
-    },
-    {
-      "username": "thatcookie",
-      "apm": 74.27,
-      "pps": 2.28
-    },
-    {
-      "username": "feli__",
-      "apm": 69.26,
-      "pps": 2.19
-    },
-    {
-      "username": "rulue",
-      "apm": 56.36,
-      "pps": 1.82
-    },
-    {
-      "username": "poussipoc",
-      "apm": 65.35,
-      "pps": 2.02
-    },
-    {
-      "username": "turbo-baguette",
-      "apm": 65.61,
-      "pps": 1.7
-    },
-    {
-      "username": "msa736",
-      "apm": 65.81,
-      "pps": 2.34
-    },
-    {
-      "username": "4voltsbattery",
-      "apm": 58.59,
-      "pps": 1.7
-    },
-    {
-      "username": "lgskully",
-      "apm": 55.75,
-      "pps": 1.99
-    },
-    {
-      "username": "wingv",
-      "apm": 51.05,
-      "pps": 1.52
-    },
-    {
-      "username": "retto74",
-      "apm": 57.84,
-      "pps": 1.53
-    },
-    {
-      "username": "anthonys01",
-      "apm": 56.35,
-      "pps": 1.81
-    },
-    {
-      "username": "ecchou",
-      "apm": 79.09,
-      "pps": 2.31
-    },
-    {
-      "username": "philem",
-      "apm": 41.05,
-      "pps": 1.71
-    },
-    {
-      "username": "luco7777",
-      "apm": 50.45,
-      "pps": 1.73
-    },
-    {
-      "username": "zulian",
-      "apm": 65.28,
-      "pps": 1.92
-    },
-    {
-      "username": "akro",
-      "apm": 44.09,
-      "pps": 1.52
-    },
-    {
-      "username": "felicien2b",
-      "apm": 42.19,
-      "pps": 1.61
-    },
-    {
-      "username": "ethryn",
-      "apm": 47.63,
-      "pps": 1.41
-    },
-    {
-      "username": "shiruushi",
-      "apm": 55.7,
-      "pps": 1.96
-    },
-    {
-      "username": "koropokkuru",
-      "apm": 51.67,
-      "pps": 1.9
-    },
-    {
-      "username": "speedphoenix",
-      "apm": 52.68,
-      "pps": 1.93
-    },
-    {
-      "username": "kimiyoru",
-      "apm": 51.54,
-      "pps": 1.63
-    },
-    {
-      "username": "gastonia",
-      "apm": 54.62,
-      "pps": 1.5
-    },
-    {
-      "username": "slighmanu",
-      "apm": 55.29,
-      "pps": 1.25
-    },
-    {
-      "username": "fabetsol",
-      "apm": 55.03,
-      "pps": 1.9
-    },
-    {
-      "username": "ezan",
-      "apm": 47.21,
-      "pps": 1.59
-    },
-    {
-      "username": "adrienmalin",
-      "apm": 45.93,
-      "pps": 1.97
-    },
-    {
-      "username": "shiluryu",
-      "apm": 51.33,
-      "pps": 1.56
-    },
-    {
-      "username": "luden",
-      "apm": 43.75,
-      "pps": 1.69
-    },
-    {
-      "username": "kar528",
-      "apm": 34.02,
-      "pps": 1.16
-    },
-    {
-      "username": "caribou_dd",
-      "apm": 50.24,
-      "pps": 1.67
-    },
-    {
-      "username": "steroidbest",
-      "apm": 51.61,
-      "pps": 1.64
-    },
-    {
-      "username": "fab77",
-      "apm": 38.89,
-      "pps": 1.69
-    },
-    {
-      "username": "merlinbm",
-      "apm": 42.13,
-      "pps": 1.47
-    },
-    {
-      "username": "siriusbyt",
-      "apm": 51.18,
-      "pps": 1.58
-    },
-    {
-      "username": "moutig",
-      "apm": 42.9,
-      "pps": 1.54
-    },
-    {
-      "username": "lonelynerd",
-      "apm": 32.23,
-      "pps": 1.66
-    },
-    {
-      "username": "fayarider",
-      "apm": 29.48,
-      "pps": 1.28
-    },
-    {
-      "username": "rosajo",
-      "apm": 36.68,
-      "pps": 1.42
-    },
-    {
-      "username": "lucie7777777",
-      "apm": 44.33,
-      "pps": 1.78
-    },
-    {
-      "username": "feld",
-      "apm": 33.49,
-      "pps": 1.51
-    },
-    {
-      "username": "mattkart",
-      "apm": 42.23,
-      "pps": 1.48
-    },
-    {
-      "username": "pandametal",
-      "apm": 40.79,
-      "pps": 1.84
-    },
-    {
-      "username": "gaho",
-      "apm": 36.69,
-      "pps": 1.77
-    }
-  ],
-  "1633799712": [
-    {
-      "username": "doremy",
-      "apm": 132.37,
-      "pps": 2.88
-    },
-    {
-      "username": "merlin69",
-      "apm": 126.66,
-      "pps": 3.01
-    },
-    {
-      "username": "akuzino777",
-      "apm": 88.08,
-      "pps": 2.24
-    },
-    {
-      "username": "tommy333",
-      "apm": 62.55,
-      "pps": 1.94
-    },
-    {
-      "username": "hericendre",
-      "apm": 73.22,
-      "pps": 1.89
-    },
-    {
-      "username": "sosobingo",
-      "apm": 68.03,
-      "pps": 1.96
-    },
-    {
-      "username": "yacktenebreux",
-      "apm": 62.15,
-      "pps": 1.89
-    },
-    {
-      "username": "fivoka",
-      "apm": 66.6,
-      "pps": 2.03
-    },
-    {
-      "username": "thatcookie",
-      "apm": 74.27,
-      "pps": 2.28
-    },
-    {
-      "username": "feli__",
-      "apm": 69.26,
-      "pps": 2.19
-    },
-    {
-      "username": "rulue",
-      "apm": 56.36,
-      "pps": 1.82
-    },
-    {
-      "username": "poussipoc",
-      "apm": 65.35,
-      "pps": 2.02
-    },
-    {
-      "username": "turbo-baguette",
-      "apm": 65.61,
-      "pps": 1.7
-    },
-    {
-      "username": "msa736",
-      "apm": 65.81,
-      "pps": 2.34
-    },
-    {
-      "username": "4voltsbattery",
-      "apm": 58.59,
-      "pps": 1.7
-    },
-    {
-      "username": "lgskully",
-      "apm": 55.75,
-      "pps": 1.99
-    },
-    {
-      "username": "wingv",
-      "apm": 51.05,
-      "pps": 1.52
-    },
-    {
-      "username": "retto74",
-      "apm": 57.84,
-      "pps": 1.53
-    },
-    {
-      "username": "anthonys01",
-      "apm": 56.35,
-      "pps": 1.81
-    },
-    {
-      "username": "ecchou",
-      "apm": 79.09,
-      "pps": 2.31
-    },
-    {
-      "username": "philem",
-      "apm": 41.05,
-      "pps": 1.71
-    },
-    {
-      "username": "luco7777",
-      "apm": 50.45,
-      "pps": 1.73
-    },
-    {
-      "username": "zulian",
-      "apm": 65.28,
-      "pps": 1.92
-    },
-    {
-      "username": "akro",
-      "apm": 44.09,
-      "pps": 1.52
-    },
-    {
-      "username": "felicien2b",
-      "apm": 42.19,
-      "pps": 1.61
-    },
-    {
-      "username": "ethryn",
-      "apm": 47.63,
-      "pps": 1.41
-    },
-    {
-      "username": "shiruushi",
-      "apm": 55.7,
-      "pps": 1.96
-    },
-    {
-      "username": "koropokkuru",
-      "apm": 51.67,
-      "pps": 1.9
-    },
-    {
-      "username": "speedphoenix",
-      "apm": 52.68,
-      "pps": 1.93
-    },
-    {
-      "username": "kimiyoru",
-      "apm": 51.54,
-      "pps": 1.63
-    },
-    {
-      "username": "gastonia",
-      "apm": 54.62,
-      "pps": 1.5
-    },
-    {
-      "username": "slighmanu",
-      "apm": 55.29,
-      "pps": 1.25
-    },
-    {
-      "username": "fabetsol",
-      "apm": 55.03,
-      "pps": 1.9
-    },
-    {
-      "username": "ezan",
-      "apm": 47.21,
-      "pps": 1.59
-    },
-    {
-      "username": "adrienmalin",
-      "apm": 45.93,
-      "pps": 1.97
-    },
-    {
-      "username": "shiluryu",
-      "apm": 51.33,
-      "pps": 1.56
-    },
-    {
-      "username": "luden",
-      "apm": 43.75,
-      "pps": 1.69
-    },
-    {
-      "username": "kar528",
-      "apm": 34.02,
-      "pps": 1.16
-    },
-    {
-      "username": "caribou_dd",
-      "apm": 50.24,
-      "pps": 1.67
-    },
-    {
-      "username": "steroidbest",
-      "apm": 51.61,
-      "pps": 1.64
-    },
-    {
-      "username": "fab77",
-      "apm": 38.89,
-      "pps": 1.69
-    },
-    {
-      "username": "merlinbm",
-      "apm": 42.13,
-      "pps": 1.47
-    },
-    {
-      "username": "siriusbyt",
-      "apm": 51.18,
-      "pps": 1.58
-    },
-    {
-      "username": "moutig",
-      "apm": 42.9,
-      "pps": 1.54
-    },
-    {
-      "username": "lonelynerd",
-      "apm": 32.23,
-      "pps": 1.66
-    },
-    {
-      "username": "fayarider",
-      "apm": 29.48,
-      "pps": 1.28
-    },
-    {
-      "username": "rosajo",
-      "apm": 36.68,
-      "pps": 1.42
-    },
-    {
-      "username": "lucie7777777",
-      "apm": 44.33,
-      "pps": 1.78
-    },
-    {
-      "username": "feld",
-      "apm": 33.49,
-      "pps": 1.51
-    },
-    {
-      "username": "mattkart",
-      "apm": 42.23,
-      "pps": 1.48
-    },
-    {
-      "username": "pandametal",
-      "apm": 40.79,
-      "pps": 1.84
-    },
-    {
-      "username": "gaho",
-      "apm": 36.69,
-      "pps": 1.77
+      "role": "user",
+      "xp": 3032489,
+      "league": {
+        "gamesplayed": 948,
+        "gameswon": 478,
+        "rating": 21092.586722221084,
+        "glicko": 1944.7652709286608,
+        "rd": 84.54627953982903,
+        "rank": "s+",
+        "apm": 36.69,
+        "pps": 1.77,
+        "vs": 83.92,
+        "decaying": false
+      },
+      "verified": false,
+      "country": "FR"
     }
   ]
 }

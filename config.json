@@ -1,8 +1,8 @@
 {
   "outputDir": "./data/",
   "data": {
-    "leaderboards": ["tl#fr&l3", "tl#fr&a24500"],
-    "savedStats": ["username", "apm", "pps"],
+    "leaderboards": ["tl"],
+    "savedStats": ["*"],
     "interval": 10,
     "removeLocalDuplicates": true,
     "removeGlobalDuplicates": true

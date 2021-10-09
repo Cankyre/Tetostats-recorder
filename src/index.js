@@ -6,19 +6,36 @@ const config = require("../config.json");
 
 function save_data(formatted_data) {
   if (!fs.existsSync(path.join(config.outputDir, "leaderboards.json"))) {
-    fs.appendFile(path.join(config.outputDir, "leaderboards.json"),JSON.stringify(JSON.parse(`{"${
-      Math.round(Date.now() / 1000)}": ${
-        JSON.stringify(formatted_data)
-      }}`), null, 2), () => {})
+    fs.appendFile(
+      path.join(config.outputDir, "leaderboards.json"),
+      JSON.stringify(
+        JSON.parse(
+          `{"${Math.round(Date.now() / 1000)}": ${JSON.stringify(
+            formatted_data
+          )}}`
+        ),
+        null,
+        2
+      ),
+      () => {}
+    );
   } else {
-    let file = JSON.parse(fs.readFileSync(path.join(config.outputDir, "leaderboards.json")))
+    let file = JSON.parse(
+      fs.readFileSync(path.join(config.outputDir, "leaderboards.json"))
+    );
     if (config.data.removeGlobalDuplicates) {
-        if (JSON.stringify(Object.values(file)[-1]) == JSON.stringify(formatted_data)) {
-          return false
-        }
+      if (
+        JSON.stringify(Object.values(file)[-1]) ==
+        JSON.stringify(formatted_data)
+      ) {
+        return false;
+      }
     } else {
-      file[Math.round(Date.now() / 1000)] = formatted_data
-      fs.writeFileSync(path.join(config.outputDir, "leaderboards.json"), JSON.stringify(file, null, 2))
+      file[Math.round(Date.now() / 1000)] = formatted_data;
+      fs.writeFileSync(
+        path.join(config.outputDir, "leaderboards.json"),
+        JSON.stringify(file, null, 2)
+      );
     }
   }
 }
@@ -31,25 +48,29 @@ function format_data(data) {
   var newData = [];
   for (var i in data) {
     o = {};
-    config.data.savedStats.forEach((stat) => {
-      if (data[i].hasOwnProperty("league")) {
-        if (data[i].league.hasOwnProperty(stat)) {
-          o[stat] = data[i].league[stat];
-        } else {
-          if (data[i].hasOwnProperty(stat)) {
-            o[stat] = data[i][stat];
+    if (config.data.savedStats.indexOf("*") + 1) {
+      o = data[i]
+    } else {
+      config.data.savedStats.forEach((stat) => {
+        if (data[i].hasOwnProperty("league")) {
+          if (data[i].league.hasOwnProperty(stat)) {
+            o[stat] = data[i].league[stat];
+          } else {
+            if (data[i].hasOwnProperty(stat)) {
+              o[stat] = data[i][stat];
+            }
           }
         }
-      }
-    });
+      });
+    }
     newData.push(o);
   }
   if (config.data.removeLocalDuplicates) {
-    newData = newData.map(i => JSON.stringify(i))
+    newData = newData.map((i) => JSON.stringify(i));
     newData = [...new Set(newData)];
-    newData = newData.map(i => JSON.parse(i))  
+    newData = newData.map((i) => JSON.parse(i));
   }
-  save_data(newData)
+  save_data(newData);
 }
 
 async function get_data(list, collected) {
@@ -111,6 +132,6 @@ function format_config() {
 }
 
 async function main() {
-  get_data(format_config())
+  get_data(format_config());
 }
 setInterval(main, config.data.interval * 1000);
