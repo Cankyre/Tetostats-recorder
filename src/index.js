@@ -4,6 +4,25 @@ const path = require("path");
 
 const config = require("../config.json");
 
+function save_data(formatted_data) {
+  if (!fs.existsSync(path.join(config.outputDir, "leaderboards.json"))) {
+    fs.appendFile(path.join(config.outputDir, "leaderboards.json"),JSON.stringify(JSON.parse(`{"${
+      Math.round(Date.now() / 1000)}": ${
+        JSON.stringify(formatted_data)
+      }}`), null, 2), () => {})
+  } else {
+    let file = JSON.parse(fs.readFileSync(path.join(config.outputDir, "leaderboards.json")))
+    if (config.data.removeGlobalDuplicates) {
+        if (JSON.stringify(Object.values(file)[-1]) == JSON.stringify(formatted_data)) {
+          return false
+        }
+    } else {
+      file[Math.round(Date.now() / 1000)] = formatted_data
+      fs.writeFileSync(path.join(config.outputDir, "leaderboards.json"), JSON.stringify(file, null, 2))
+    }
+  }
+}
+
 /**
  *
  * @param {object[]} data
@@ -30,12 +49,11 @@ function format_data(data) {
     newData = [...new Set(newData)];
     newData = newData.map(i => JSON.parse(i))  
   }
-  console.log(newData)
+  save_data(newData)
 }
 
 async function get_data(list, collected) {
   if (list.length == 0) {
-    console.log(1);
     format_data(collected);
     return true; //TODO: does not return properly
   } else {
@@ -93,6 +111,6 @@ function format_config() {
 }
 
 async function main() {
-  get_data(format_config());
+  get_data(format_config())
 }
-main();
+setInterval(main, config.data.interval * 1000);

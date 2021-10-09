@@ -3,8 +3,8 @@
   "data": {
     "leaderboards": ["tl#fr&l3", "tl#fr&a24500"],
     "savedStats": ["username", "apm", "pps"],
-    "interval": 600,
+    "interval": 10,
     "removeLocalDuplicates": true,
-    "removeGlobalDuplicates": false
+    "removeGlobalDuplicates": true
   }
 }
