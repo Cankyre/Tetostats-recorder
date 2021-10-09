@@ -10,9 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/edit-json-file": "^1.6.0",
-    "edit-json-file": "^1.6.0",
-    "set-value": "^4.1.0",
     "tetr.js": "^3.3.1"
   }
 }
